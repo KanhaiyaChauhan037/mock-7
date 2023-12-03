@@ -24,7 +24,7 @@
       "id": 1,
       "missing": "",
       "approved": "",
-      "updated-price":"",
+      "updated-price":"90.25",
       "reason":""
     },
     {
@@ -46,7 +46,7 @@
       "id": 3,
       "missing": "",
       "approved": "",
-      "updated-price":"",
+      "updated-price":"100.5",
       "reason":""
     },
     {
@@ -58,7 +58,7 @@
       "id": 4,
       "missing": "",
       "missing-urgent": "",
-      "updated-price":"",
+      "updated-price":"500.8",
       "reason":""
     },
     {
@@ -68,7 +68,7 @@
       "quantity": 1,
       "status": "approved",
       "id": 5,
-      "updated-price":"",
+      "updated-price":"250.99",
       "reason":""
     },
     {
